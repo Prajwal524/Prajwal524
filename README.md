@@ -18,7 +18,94 @@
 <a href="https://linkedin.com/in/prajwal-y524"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/PRAJWAL-Y/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/prajuacharya2004"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:prajuacharya2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=28" height="50"/></a>
+<a href="mailto:prajuacharya2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/prajwal.y_acharya/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=28" height="50"/></a>
+
+</div>
+
+---
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Computer%20Disk.png" width="30"/> SELECT * FROM Developer;
+
+```java
+Developer prajwal = new Developer();
+prajwal.setName("Prajwal Y");
+prajwal.setRole("Database Engineer");
+prajwal.setEducation(
+    "B.E. in Artificial Intelligence & Data Science"
+);
+prajwal.setExpertise(List.of(
+    "Database Engineering",
+    "Java Full Stack Development",
+    "SQL",
+    "ETL Pipelines"
+));
+prajwal.setCurrentlyBuilding(
+    "Scalable Data Solutions & Backend Applications"
+);
+prajwal.setInterests(List.of(
+    "Database Design",
+    "Backend Systems",
+    "Data Engineering",
+    "Problem Solving"
+));
+prajwal.setMotto(
+    "Start solid. Build once. Improve forever."
+);
+```
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Automated Data Pre-Processing Tool
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Automated-Data-Pre-Processing-Tool)
+
+Automated data preprocessing tool with integrated API for data insights and automated feature extraction.
+
+**Tech:** `Python` `REST API` `Pandas` `Feature Engineering`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏭 Sales Warehouse — Medallion Architecture
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/SQL-data-warehouse-project)
+
+End-to-end Data Warehouse and Analytics project demonstrating modern data engineering practices using SQL Server with Medallion Architecture.
+
+**Tech:** `SQL Server` `ETL` `Medallion Architecture` `Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 ProDhee Student Courses Portal
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Prodhee-Learning-Portal)
+
+Full-stack Java web application for student course management with authentication, enrollment, and admin features.
+
+**Tech:** `Java Servlets` `JSP` `MySQL` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 Employee Management System
+[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Employee-Management-System)
+
+Java-based web app that streamlines staff records, role-based access, and core HR operations with a MySQL backend.
+
+**Tech:** `Java Servlets` `JSP` `MySQL` `Role-Based Access`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -185,11 +272,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Prajwal524"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/prajwal-y524"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/PRAJWAL-Y/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/prajuacharya2004"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:prajuacharya2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=28" height="50"/></a>
+<a href="https://github.com/Prajwal524"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/prajwal-y524"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/PRAJWAL-Y/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/prajuacharya2004"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:prajuacharya2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=28" height="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/prajwal.y_acharya/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=28" height="50"/></a>
 
 </div>
 
