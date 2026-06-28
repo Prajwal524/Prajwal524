@@ -237,6 +237,6 @@ WHERE passion = 'Technology';
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:00B4D8,100:48CAE4&height=120&section=footer&text=Happy%20Coding!&fontColor=ffffff&fontSize=22&animation=twinkling"/>
+<strong>Start Solid</strong> &nbsp;➜&nbsp; <strong>Build Better</strong> &nbsp;➜&nbsp; <strong>Improve Forever</strong>
 
 </div>
