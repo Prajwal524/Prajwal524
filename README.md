@@ -237,6 +237,6 @@ WHERE passion = 'Technology';
 
 <div align="center">
 
-<strong>Start Solid</strong> &nbsp;➜&nbsp; <strong>Build Better</strong> &nbsp;➜&nbsp; <strong>Improve Forever</strong>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:00B4D8,100:48CAE4&height=120&section=footer&text=Start%20Solid%20%E2%86%92%20Build%20Better%20%E2%86%92%20Improve%20Forever.&fontColor=ffffff&fontSize=22&animation=twinkling"/>
 
 </div>
