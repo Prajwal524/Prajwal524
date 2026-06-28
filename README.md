@@ -65,21 +65,29 @@ prajwal.setMotto(
 <td width="50%" valign="top">
 
 ### 🤖 Automated Data Pre-Processing Tool
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Automated-Data-Pre-Processing-Tool)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%2300B4D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Automated-Data-Pre-Processing-Tool)
 
 Automated data preprocessing tool with integrated API for data insights and automated feature extraction.
 
-**Tech:** `Python` `REST API` `Pandas` `Feature Engineering`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Feature Eng](https://img.shields.io/badge/Feature%20Engineering-F7931E?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏭 Sales Warehouse — Medallion Architecture
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/SQL-data-warehouse-project)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/SQL-data-warehouse-project)
 
 End-to-end Data Warehouse and Analytics project demonstrating modern data engineering practices using SQL Server with Medallion Architecture.
 
-**Tech:** `SQL Server` `ETL` `Medallion Architecture` `Analytics`
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-00B4D8?style=flat-square&logoColor=white)
+![Medallion](https://img.shields.io/badge/Medallion%20Architecture-F59E0B?style=flat-square&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-8B5CF6?style=flat-square&logoColor=white)
 
 </td>
 </tr>
@@ -87,21 +95,29 @@ End-to-end Data Warehouse and Analytics project demonstrating modern data engine
 <td width="50%" valign="top">
 
 ### 🎓 ProDhee Student Courses Portal
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Prodhee-Learning-Portal)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%2322C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Prodhee-Learning-Portal)
 
 Full-stack Java web application for student course management with authentication, enrollment, and admin features.
 
-**Tech:** `Java Servlets` `JSP` `MySQL` `Tailwind CSS`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 👥 Employee Management System
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Employee-Management-System)
+
+[![Repo](https://img.shields.io/badge/View%20Repo-%23E4405F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prajwal524/Employee-Management-System)
 
 Java-based web app that streamlines staff records, role-based access, and core HR operations with a MySQL backend.
 
-**Tech:** `Java Servlets` `JSP` `MySQL` `Role-Based Access`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![RBAC](https://img.shields.io/badge/Role--Based%20Access-8B5CF6?style=flat-square&logoColor=white)
 
 </td>
 </tr>
