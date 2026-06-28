@@ -237,6 +237,6 @@ WHERE passion = 'Technology';
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:00B4D8,100:48CAE4&height=175&section=footer&text=Start%20Solid%20%E2%86%92%20Build%20Better%20%E2%86%92%20Improve%20Forever.&fontColor=ffffff&fontSize=22&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4C81,50:00B4D8,100:48CAE4&height=160&section=footer&text=Start%20Solid%20%E2%9F%B6%20Build%20Better%20%E2%9F%B6%20Improve%20Forever&fontColor=ffffff&fontSize=24&fontAlignY=38&animation=fadeIn"/>
 
 </div>
