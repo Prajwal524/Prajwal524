@@ -172,9 +172,7 @@
 # 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Prajwal524/Prajwal524/main/dist/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://raw.githubusercontent.com/Prajwal524/Prajwal524/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 <br><br>
 
 </div>
