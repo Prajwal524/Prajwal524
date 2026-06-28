@@ -6,7 +6,7 @@
 
 <div align="center">
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=48CAE4&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;Database+Engineer;Turning+Data+into+Insights)](https://git.io/typing-svg)
 
 </div>
 
@@ -36,21 +36,23 @@
 
 </div>
 
-🛠️ Tech Arsenal
+---
+
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
-💻 Languages
+## 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
 </p>
 
-Java  •  SQL  •  Python  •  JavaScript  •  HTML  •  CSS
+**Java &nbsp;•&nbsp; SQL &nbsp;•&nbsp; Python &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS**
 
 <br>
 
-⚙️ Backend Development
+### ⚙️ Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -58,33 +60,33 @@ Java  •  SQL  •  Python  •  JavaScript  •  HTML  •  CSS
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48"/>
 </p>
 
-Spring Framework  •  JDBC  •  JSP  •  Servlets  •  Tomcat
+**Spring Framework &nbsp;•&nbsp; JDBC &nbsp;•&nbsp; JSP &nbsp;•&nbsp; Servlets &nbsp;•&nbsp; Tomcat**
 
 <br>
 
-🗄️ Database Technologies
+## 🗄️ Database Technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 </p>
 
-MySQL  •  SQL Server  •  Advanced SQL  •  ETL
+**MySQL &nbsp;•&nbsp; SQL Server &nbsp;•&nbsp; Advanced SQL &nbsp;•&nbsp; ETL**
 
 <br>
 
-⚡ Data Engineering
+## ⚡ Data Engineering
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="48"/>
 </p>
 
-ETL Pipelines  •  Hadoop  •  Apache Spark
+**ETL Pipelines &nbsp;•&nbsp; Hadoop &nbsp;•&nbsp; Apache Spark**
 
 <br>
 
-📊 Analytics & Machine Learning
+## 📊 Analytics & Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=py" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -93,22 +95,22 @@ ETL Pipelines  •  Hadoop  •  Apache Spark
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
 </p>
 
-Pandas  •  NumPy  •  Scikit-Learn  •  XGBoost
+**Pandas &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Scikit-Learn &nbsp;•&nbsp; XGBoost**
 
 <br>
 
-📈 Business Intelligence
+## 📈 Business Intelligence
 
 <p>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" width="140"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" width="140"/>
 </p>
 
-Power BI  •  Tableau
+**Power BI &nbsp;•&nbsp; Tableau**
 
 <br>
 
-🛠️ Development Tools
+## 🛠️ Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git" width="48"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -116,119 +118,38 @@ Power BI  •  Tableau
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/>
 </p>
 
-Git  •  GitHub  •  VS Code
+**Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; VS Code**
 
 </div>
 
-📊 Interactive Skills Matrix
+# 📊 Interactive Skills Matrix
 
 <div align="center">
 
-Technology
-
-Skill Meter
-
-Proficiency
-
-SQL
-
-<img src="https://img.shields.io/badge/█████████░-2563EB?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Advanced-2563EB?style=for-the-badge"/>
-
-Java
-
-<img src="https://img.shields.io/badge/████████░░-06B6D4?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-06B6D4?style=for-the-badge"/>
-
-Python
-
-<img src="https://img.shields.io/badge/████████░░-06B6D4?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-06B6D4?style=for-the-badge"/>
-
-JavaScript
-
-<img src="https://img.shields.io/badge/███████░░░-06B6D4?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-06B6D4?style=for-the-badge"/>
-
-Spring Framework
-
-<img src="https://img.shields.io/badge/███████░░░-22C55E?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-22C55E?style=for-the-badge"/>
-
-JDBC
-
-<img src="https://img.shields.io/badge/████████░░-22C55E?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-22C55E?style=for-the-badge"/>
-
-JSP & Servlets
-
-<img src="https://img.shields.io/badge/████████░░-22C55E?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-22C55E?style=for-the-badge"/>
-
-Microsoft SQL Server
-
-<img src="https://img.shields.io/badge/████████░░-2563EB?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-2563EB?style=for-the-badge"/>
-
-MySQL
-
-<img src="https://img.shields.io/badge/████████░░-2563EB?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-2563EB?style=for-the-badge"/>
-
-Power BI
-
-<img src="https://img.shields.io/badge/███████░░░-8B5CF6?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/>
-
-Pandas
-
-<img src="https://img.shields.io/badge/████████░░-8B5CF6?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/>
-
-NumPy
-
-<img src="https://img.shields.io/badge/████████░░-8B5CF6?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/>
-
-Scikit-Learn
-
-<img src="https://img.shields.io/badge/███████░░░-8B5CF6?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/>
-
-Tableau
-
-<img src="https://img.shields.io/badge/█████░░░░░-F59E0B?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Beginner-F59E0B?style=for-the-badge"/>
-
-Hadoop
-
-<img src="https://img.shields.io/badge/█████░░░░░-F59E0B?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Beginner-F59E0B?style=for-the-badge"/>
-
-Apache Spark
-
-<img src="https://img.shields.io/badge/████░░░░░░-F59E0B?style=for-the-badge&labelColor=111827"/>
-
-<img src="https://img.shields.io/badge/Beginner-F59E0B?style=for-the-badge"/>
+| Technology | Skill Meter | Proficiency |
+|:-----------|:-----------:|:-----------:|
+| **SQL** | <img src="https://img.shields.io/badge/█████████░-2563EB?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Advanced-2563EB?style=for-the-badge"/> |
+| **Java** | <img src="https://img.shields.io/badge/████████░░-06B6D4?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-06B6D4?style=for-the-badge"/> |
+| **Python** | <img src="https://img.shields.io/badge/████████░░-06B6D4?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-06B6D4?style=for-the-badge"/> |
+| **JavaScript** | <img src="https://img.shields.io/badge/███████░░░-06B6D4?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-06B6D4?style=for-the-badge"/> |
+| **Spring Framework** | <img src="https://img.shields.io/badge/███████░░░-22C55E?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-22C55E?style=for-the-badge"/> |
+| **JDBC** | <img src="https://img.shields.io/badge/████████░░-22C55E?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-22C55E?style=for-the-badge"/> |
+| **JSP & Servlets** | <img src="https://img.shields.io/badge/████████░░-22C55E?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-22C55E?style=for-the-badge"/> |
+| **Microsoft SQL Server** | <img src="https://img.shields.io/badge/████████░░-2563EB?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-2563EB?style=for-the-badge"/> |
+| **MySQL** | <img src="https://img.shields.io/badge/████████░░-2563EB?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-2563EB?style=for-the-badge"/> |
+| **Power BI** | <img src="https://img.shields.io/badge/███████░░░-8B5CF6?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/> |
+| **Pandas** | <img src="https://img.shields.io/badge/████████░░-8B5CF6?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/> |
+| **NumPy** | <img src="https://img.shields.io/badge/████████░░-8B5CF6?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/> |
+| **Scikit-Learn** | <img src="https://img.shields.io/badge/███████░░░-8B5CF6?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Intermediate-8B5CF6?style=for-the-badge"/> |
+| **Tableau** | <img src="https://img.shields.io/badge/█████░░░░░-F59E0B?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Beginner-F59E0B?style=for-the-badge"/> |
+| **Hadoop** | <img src="https://img.shields.io/badge/█████░░░░░-F59E0B?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Beginner-F59E0B?style=for-the-badge"/> |
+| **Apache Spark** | <img src="https://img.shields.io/badge/████░░░░░░-F59E0B?style=for-the-badge&labelColor=111827"/> | <img src="https://img.shields.io/badge/Beginner-F59E0B?style=for-the-badge"/> |
 
 </div>
 
-🔥 GitHub Analytics
+---
+
+# 🔥 GitHub Analytics
 
 <div align="center">
 
@@ -246,7 +167,9 @@ Apache Spark
 
 </div>
 
-🐍 Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -257,50 +180,48 @@ Apache Spark
 <details>
 <summary><b>⚙️ Snake Workflow Setup Instructions</b></summary>
 
-Your workflow will generate the snake in the dist/ folder on the main branch.
+**Your workflow will generate the snake in the `dist/` folder on the `main` branch.**
 
-Steps to get the snake working:
+**Steps to get the snake working:**
 
-Update your .github/workflows/snake.yml:
+1. **Update your `.github/workflows/snake.yml`:**
+   ```yaml
+   - uses: crazy-max/ghaction-github-pages@v4
+     with:
+       target_branch: main     # This puts files in main branch
+       build_dir: dist         # Into dist/ folder
+     env:
+       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   ```
 
-- uses: crazy-max/ghaction-github-pages@v4
-  with:
-    target_branch: main     # This puts files in main branch
-    build_dir: dist         # Into dist/ folder
-  env:
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+2. **Commit and push:**
+   ```bash
+   git add .github/workflows/snake.yml
+   git commit -m "Update snake workflow to use main branch"
+   git push
+   ```
 
-Commit and push:
+3. **Manually run the workflow:**
+   - Go to GitHub → Actions → Generate Snake
+   - Click "Run workflow" → Run workflow
+   - Wait 60-90 seconds
 
-git add .github/workflows/snake.yml
-git commit -m "Update snake workflow to use main branch"
-git push
+4. **Verify it worked:**
+   - Check your repo for a new `dist/` folder
+   - Inside should be `github-contribution-grid-snake-dark.svg`
+   - Refresh your README page
 
-Manually run the workflow:
-
-Go to GitHub → Actions → Generate Snake
-
-Click "Run workflow" → Run workflow
-
-Wait 60-90 seconds
-
-Verify it worked:
-
-Check your repo for a new dist/ folder
-
-Inside should be github-contribution-grid-snake-dark.svg
-
-Refresh your README page
-
-After first run, the snake auto-generates every 12 hours
+5. **After first run, the snake auto-generates every 12 hours**
 
 </details>
 
 </div>
 
+---
 
 
-👁️ Profile Visitors
+
+# 👁️ Profile Visitors
 
 <div align="center">
 
@@ -310,7 +231,7 @@ After first run, the snake auto-generates every 12 hours
 
 </div>
 
-☎️ Let's Connect
+# ☎️ Let's Connect
 
 <div align="center">
 
@@ -338,6 +259,7 @@ After first run, the snake auto-generates every 12 hours
 
 <div align="center">
 
+```sql
 SELECT next_step
 FROM Career
 WHERE passion = 'Technology';
@@ -347,8 +269,11 @@ WHERE passion = 'Technology';
 | Keep Building.       |
 | Keep Growing.        |
 +----------------------+
+```
 
 </div>
+
+---
 
 <div align="center">
 
