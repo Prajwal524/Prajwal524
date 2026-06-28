@@ -177,44 +177,6 @@
 
 <br><br>
 
-<details>
-<summary><b>⚙️ Snake Workflow Setup Instructions</b></summary>
-
-**Your workflow will generate the snake in the `dist/` folder on the `main` branch.**
-
-**Steps to get the snake working:**
-
-1. **Update your `.github/workflows/snake.yml`:**
-   ```yaml
-   - uses: crazy-max/ghaction-github-pages@v4
-     with:
-       target_branch: main     # This puts files in main branch
-       build_dir: dist         # Into dist/ folder
-     env:
-       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   ```
-
-2. **Commit and push:**
-   ```bash
-   git add .github/workflows/snake.yml
-   git commit -m "Update snake workflow to use main branch"
-   git push
-   ```
-
-3. **Manually run the workflow:**
-   - Go to GitHub → Actions → Generate Snake
-   - Click "Run workflow" → Run workflow
-   - Wait 60-90 seconds
-
-4. **Verify it worked:**
-   - Check your repo for a new `dist/` folder
-   - Inside should be `github-contribution-grid-snake-dark.svg`
-   - Refresh your README page
-
-5. **After first run, the snake auto-generates every 12 hours**
-
-</details>
-
 </div>
 
 ---
