@@ -2,8 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs once every day at 00:00 UTC
+  workflow_dispatch:        # allows manual trigger from the Actions tab
 
 permissions:
   contents: write
