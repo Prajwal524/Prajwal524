@@ -276,8 +276,6 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 ---
 
----
-
 # ☎️ Let's Connect
 
 <div align="center">
