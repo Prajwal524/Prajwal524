@@ -247,7 +247,7 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 ## Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwal524&theme=github-dark&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajwal524&theme=github_dark" />
 
 <br>
 
