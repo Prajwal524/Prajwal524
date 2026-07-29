@@ -275,6 +275,14 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <br> 
 
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+</div>
+
 ---
 
 # 🐍 Contribution Snake
@@ -303,8 +311,8 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 ```sql
 SELECT next_step
-FROM Career
-WHERE passion = 'Technology';
+  FROM Career
+ WHERE passion = 'Technology';
 
 +----------------------+
 | Keep Learning.       |
