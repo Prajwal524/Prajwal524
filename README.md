@@ -288,7 +288,6 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <div align="center">
 
-```sql
 SELECT next_step
 FROM Career
 WHERE passion = 'Technology';
@@ -298,7 +297,6 @@ WHERE passion = 'Technology';
 | Keep Building.       |
 | Keep Growing.        |
 +----------------------+
-```
 
 </div>
 
