@@ -243,19 +243,17 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 # 🔥 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal524&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"/>
-
-</div>
-
-<br>
+# 🔥 GitHub Analytics
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Prajwal524&theme=transparent&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=Prajwal524&theme=dark" />
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajwal524&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prajwal524&theme=github_dark" />
 
 </div>
 
