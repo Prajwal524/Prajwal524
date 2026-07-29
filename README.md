@@ -241,49 +241,14 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 ---
 
-# 🔥 GitHub Analytics
-
+🔥 GitHub Analytics
 <div align="center">
-
-## Contribution Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajwal524&theme=github_dark" />
-
-<br>
-
-## Most Used Languages
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajwal524&theme=github_dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-## Profile Statistics
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwal524&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwal524&theme=github_dark&utc=true" />
-
-</div>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" />
-
-</div>
+Contribution Activity
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajwal524&theme=github_dark" /> <br>
+Most Used Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajwal524&theme=github_dark" /> </div> <br> <div align="center">
+Profile Statistics
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwal524&theme=github_dark" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwal524&theme=github_dark&utc=true" /> </div> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" /> </div>
 
 ---
 
