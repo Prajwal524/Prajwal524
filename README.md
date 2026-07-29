@@ -292,12 +292,17 @@ SELECT next_step
 FROM Career
 WHERE passion = 'Technology';
 
+```sql
+SELECT next_step
+FROM Career
+    WHERE passion = 'Technology';
+
 +----------------------+
 | Keep Learning.       |
 | Keep Building.       |
 | Keep Growing.        |
 +----------------------+
-
+```
 
 </div>
 
