@@ -290,16 +290,16 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <table>
   <tr style="background-color: #0F4C81;">
-    <td style="color: #48CAE4; font-weight: bold; padding: 10px; border: 1px solid #00B4D8;">SELECT</td>
-    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8;">next_step</td>
+    <td style="color: #FFD700; font-weight: bold; padding: 10px; border: 1px solid #00B4D8; font-size: 16px;">SELECT</td>
+    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8; font-size: 16px;">next_step</td>
   </tr>
   <tr style="background-color: #0a2540;">
-    <td style="color: #00B4D8; font-weight: bold; padding: 10px; border: 1px solid #00B4D8;">FROM</td>
-    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8;">Career</td>
+    <td style="color: #FFD700; font-weight: bold; padding: 10px; border: 1px solid #00B4D8; font-size: 16px;">FROM</td>
+    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8; font-size: 16px;">Career</td>
   </tr>
   <tr style="background-color: #0F4C81;">
-    <td style="color: #00B4D8; font-weight: bold; padding: 10px; border: 1px solid #00B4D8;">WHERE</td>
-    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8;">passion = 'Technology';</td>
+    <td style="color: #FFD700; font-weight: bold; padding: 10px; border: 1px solid #00B4D8; font-size: 16px;">WHERE</td>
+    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8; font-size: 16px;">passion = 'Technology';</td>
   </tr>
 </table>
 
