@@ -245,34 +245,6 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" />
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Prajwal524/Prajwal524/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-<br><br>
-
-</div>
-
----
-
-# 📈 GitHub Analytics Dashboard
-
-<div align="center">
-
 ## Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prajwal524&theme=github-dark&hide_border=true)
@@ -292,6 +264,30 @@ Java-based web app that streamlines staff records, role-based access, and core H
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwal524&theme=github_dark&utc=true" />
 
 </div>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Prajwal524/Prajwal524/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<br><br>
 
 </div>
 
