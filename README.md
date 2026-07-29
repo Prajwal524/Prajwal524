@@ -253,7 +253,7 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 ## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal524&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prajwal524&theme=github_dark" />
 
 </div>
 
