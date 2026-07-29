@@ -290,8 +290,9 @@ Java-based web app that streamlines staff records, role-based access, and core H
 # 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Prajwal524/Prajwal524/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prajwal524&theme=github_dark" />
 <br><br>
+
 
 </div>
 
