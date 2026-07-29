@@ -292,12 +292,13 @@ Java-based web app that streamlines staff records, role-based access, and core H
 SELECT next_step
 FROM Career
 WHERE passion = 'Technology';
-```
+
 +----------------------+
 | Keep Learning.       |
 | Keep Building.       |
 | Keep Growing.        |
 +----------------------+
+```
 
 </div>
 
