@@ -261,29 +261,8 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <div align="center">
 
-## Profile Statistics
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwal524&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwal524&theme=github_dark&utc=true" />
-
-</div>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" />
-
-</div>
+Profile Statistics
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwal524&theme=github_dark" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwal524&theme=github_dark&utc=true" /> </div> <br> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Prajwal524&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" /> </div>
 
 ---
 
