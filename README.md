@@ -288,19 +288,28 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <div align="center">
 
-| |  |
-|---|---|
-| SELECT | next_step |
-| FROM | Career |
-| WHERE | passion = 'Technology'; |
+<table>
+  <tr style="background-color: #0F4C81;">
+    <td style="color: #48CAE4; font-weight: bold; padding: 10px; border: 1px solid #00B4D8;">SELECT</td>
+    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8;">next_step</td>
+  </tr>
+  <tr style="background-color: #0a2540;">
+    <td style="color: #00B4D8; font-weight: bold; padding: 10px; border: 1px solid #00B4D8;">FROM</td>
+    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8;">Career</td>
+  </tr>
+  <tr style="background-color: #0F4C81;">
+    <td style="color: #00B4D8; font-weight: bold; padding: 10px; border: 1px solid #00B4D8;">WHERE</td>
+    <td style="color: #48CAE4; padding: 10px; border: 1px solid #00B4D8;">passion = 'Technology';</td>
+  </tr>
+</table>
 
 <br>
 
-+----------------------+
-| Keep Learning.       |
-| Keep Building.       |
-| Keep Growing.        |
-+----------------------+
++------------------------+
+| ✨ Keep Learning.      |
+| 🚀 Keep Building.      |
+| 📈 Keep Growing.       |
++------------------------+
 
 </div>
 
