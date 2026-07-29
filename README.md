@@ -305,11 +305,13 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <br>
 
-+------------------------+
-| ✨ Keep Learning.      |
-| 🚀 Keep Building.      |
-| 📈 Keep Growing.       |
-+------------------------+
+```
++----------------------+
+| Keep Learning.       |
+| Keep Building.       |
+| Keep Growing.        |
++----------------------+
+```
 
 </div>
 
