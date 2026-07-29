@@ -261,8 +261,8 @@ Java-based web app that streamlines staff records, role-based access, and core H
 
 <div align="center">
     
-Profile Statistics
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwal524&theme=github_dark" /> <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwal524&theme=github_dark&utc=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" /> </div>
+# Profile Statistics
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prajwal524&theme=github_dark" /> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prajwal524&theme=github_dark&utc=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Prajwal524&theme=github_dark" /> </div>
 
 ---
 
